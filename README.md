@@ -1,2 +1,2 @@
-# newyear
+# NewYear
 2025
